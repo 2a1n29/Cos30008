@@ -1,0 +1,3 @@
+﻿  Main.cpp
+x64\Debug\Polynomial.obj : warning LNK4042: object specified more than once; extras ignored
+  TranHoangHaiAnh_A1.vcxproj -> D:\Swinburne\COS30008\Assignment_1\TranHoangHaiAnh_A1\x64\Debug\TranHoangHaiAnh_A1.exe
